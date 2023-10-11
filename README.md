@@ -1,4 +1,6 @@
-Bioinformatician at the University of Michigan Advanced Genomics Core
+PhD student in Biological and Biomedical Sciences at University of North Carolina - Chapel Hill
+
+Previously a Bioinformatician at the University of Michigan Advanced Genomics Core
 
 Interested exploring genomics and epigenomics with computers 🧬 👩🏻‍💻
 <!---
