@@ -1,4 +1,4 @@
-PhD student in Bioinformatics and Computational Biology in the Phanstiel Lab at the University of North Carolina - Chapel Hill
+PhD candidate in Bioinformatics and Computational Biology in the Phanstiel Lab at the University of North Carolina - Chapel Hill
 
 Previously a Bioinformatician at the University of Michigan Advanced Genomics Core
 
